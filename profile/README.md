@@ -171,10 +171,8 @@ sequenceDiagram
 <div align="center">
 
 ### 🎓 Trabajo de Fin de Máster
-
+Nota Obtenida: 9.7<br>
 Proyecto desarrollado bajo los paradigmas **Cloud Native**, **Serverless**, **FinOps** y **Seguridad por diseño (Zero Trust)**.
-
-**[🚀 Probar la demo en vivo](https://ca-frontend-talentrefine-dev-spc.greenwave-4d796cb5.spaincentral.azurecontainerapps.io)**
 
 <sub>Licencia MIT</sub>
 
