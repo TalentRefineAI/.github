@@ -9,10 +9,6 @@ Los resultados se ordenan por un **score híbrido** que combina similitud semán
 
 <br/>
 
-[![Demo en vivo](https://img.shields.io/badge/🚀_Demo_en_vivo-Azure_Container_Apps-0078D4?style=for-the-badge)](https://ca-frontend-talentrefine-dev-spc.greenwave-4d796cb5.spaincentral.azurecontainerapps.io)
-
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.136-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30-FF4B4B?logo=streamlit&logoColor=white)
